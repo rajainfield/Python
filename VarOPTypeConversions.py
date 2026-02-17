@@ -48,7 +48,7 @@ z = "25"      # str
 
 a, B, c = "Orange", "Banana", "Cherry"
 print(a);print(B);print(c)
-d = e = f = 'Raja'
+d = e = f = 'Rajarao'
 print(d);print(e);print(f)
 
 #Variables do not need to be declared with any particular type, and can even change type after they have been set.
