@@ -42,14 +42,14 @@ A variable name cannot be any of the Python keywords.'''
 # Variable types
 x = 10        # int
 y = 3.5       # float
-z = "26"      # str
+z = "25"      # str
 
 #Python allows you to assign values to multiple variables in one line:
 
 a, B, c = "Orange", "Banana", "Cherry"
 print(a);print(B);print(c)
-D = e = F = 'Rajarao'
-print(D);print(e);print(F)
+d = e = f = 'Rajarao'
+print(d);print(e);print(f)
 
 #Variables do not need to be declared with any particular type, and can even change type after they have been set.
 
