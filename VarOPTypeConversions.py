@@ -38,7 +38,6 @@ A variable name can only contain alpha-numeric characters and underscores (A-z, 
 Variable names are case-sensitive (age, Age and AGE are three different variables)
 A variable name cannot be any of the Python keywords.'''
 
-
 # Variable types
 x = 10        # int
 y = 3.5       # float
@@ -74,3 +73,5 @@ print("Explicit:", explicit, type(explicit))
 
 #We can create the space character in the output by "+" "," and "Python " and "is " and "awesome, without them the result would be "Python is awesome".
 #Mixing integers with string at output, avoid "+" use ","
+
+'''---End---'''
