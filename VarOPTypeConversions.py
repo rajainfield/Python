@@ -1,3 +1,6 @@
+'''Start'''
+
+
 '''Python has a simple syntax similar to the English language. And Case - Sensitive language.
 Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick
 
